@@ -1,5 +1,5 @@
 # my-first-game-ever
-It's exactly what you would think: my first game. 
+It's exactly what you would think: my first game. Paddle-game between 2 entities. 
 
 Controls:
 
